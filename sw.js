@@ -1,4 +1,4 @@
-const CACHE_NAME = 'radio-monarca-v6';
+const CACHE_NAME = 'radio-monarca-v7';
 const STATIC_ASSETS = [
     '/',
     '/index.html',
